@@ -5,4 +5,4 @@ I've worked on game development both as a professional and as an indie. I've cre
 - [My portfolio](https://docs.google.com/presentation/d/e/2PACX-1vS1RFrvQSqy49AqLBFK2kV9bmeP9z83ftBp7R1614mg21DL0cgGYsQYlu_llF2Q-55aZNcrsTvoFjwv/pub?start=false&loop=false&delayms=3000)
 - [My published games and tools](https://iohanna.itch.io/)
 
-Want to contact me? The best way to reach me is to e-mail me at: Sorceress.Spell@gmail.com.
+Want to contact me? The best way to reach me is to e-mail me at: StoriesOfSorcery@gmail.com.
